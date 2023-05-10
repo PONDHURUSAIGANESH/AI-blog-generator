@@ -1,5 +1,5 @@
 # AI Blog Writer
-Create an AI blog writing tool with Open AI API. 
+Created an AI blog writing tool with Open AI API. 
 
 # Get Started with this repo
 Copy this repo and move to the root of the directory.
