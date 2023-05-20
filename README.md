@@ -63,4 +63,4 @@ Please use the tool responsibly and comply with OpenAI's usage policies and guid
 
 ---
 
-We hope you find this AI blog writing tool helpful in generating compelling content for your blogs. Feel free to contribute, provide feedback, and share your experiences with the community. Happy blogging!
+I hope you find this AI blog writing tool helpful in generating compelling content for your blogs. Feel free to contribute, provide feedback, and share your experiences with the community. Happy blogging!
